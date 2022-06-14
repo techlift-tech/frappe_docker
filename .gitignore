@@ -16,7 +16,6 @@ development/*
 !.vscode/extensions.json
 
 # VS Code devcontainer
-.devcontainer
 *.code-workspace
 
 # Python
