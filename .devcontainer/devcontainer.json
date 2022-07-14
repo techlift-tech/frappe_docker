@@ -1,4 +1,15 @@
 {
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "techlift-tech/frappe_typehire": {
+          "permissions": {
+            "issues": "read"
+          }
+        }
+      }
+    }
+  }
   "name": "Frappe Bench",
   "forwardPorts": [8000, 9000, 6787],
   "remoteUser": "frappe",
